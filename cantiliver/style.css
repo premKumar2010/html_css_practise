@@ -1,0 +1,33 @@
+body {
+    background-color: #00bcd44f;
+}
+
+header h1 {
+    font-family: "Isometra", serif;
+    font-weight: 400;
+    font-style: normal;
+    word-spacing: 10px;
+}
+
+header h1 span {
+    letter-spacing: 2px;
+    text-shadow: #CDDC39 2px 2px, #FF5722 4px 2px, #2196F3 6px 2px;
+}
+
+section:nth-of-type(1) p {
+    font-size: 25px;
+    font-weight: 600;
+    word-spacing: 5px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+section:nth-of-type(1) p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
